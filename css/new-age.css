@@ -285,7 +285,7 @@ section.features .feature-item i {
 section.cta {
   position: relative;
   padding: 250px 0;
-  background-image: url("../img/bg-cta.jpg");
+  background-image: url("../img/coloful-pens.jpeg");
   background-position: center;
   background-size: cover;
 }
@@ -296,8 +296,8 @@ section.cta .cta-content {
 }
 
 section.cta .cta-content h2 {
-  font-size: 50px;
-  max-width: 450px;
+  font-size: 30px;
+  max-width: 1000px;
   margin-top: 0;
   margin-bottom: 25px;
   color: white;
