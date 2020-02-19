@@ -160,6 +160,9 @@ header.masthead {
   background: url("../img/bg-pattern.png"), #7b4397;
   background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);
   */
+  background-image: url("../img/pink-flame.jpg");
+  background-position: center;
+  background-size: cover;
 }
 
 header.masthead .header-content {
