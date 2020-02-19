@@ -162,7 +162,7 @@ header.masthead {
   */
   background-image: url("../img/pink-flame.jpg");
   background-position: center;
-  background-size: cover;
+  background-size: contain;
 }
 
 header.masthead .header-content {
